@@ -32,8 +32,4 @@ public class Movie {
     // ajouter une annotaion pour le niveau d'acces à l'attribut
     @Getter(AccessLevel.PRIVATE)
     private final int minutes = 120;
-
-
-
-
 }
